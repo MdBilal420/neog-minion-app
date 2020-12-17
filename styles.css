@@ -12,14 +12,14 @@
 body{
     font-family: 'Kalam',cursive;
     color: #333333;
-}
-main{
-    font-family: 'Kalam',cursive;
-    color: #333333;
     max-width: 600px;
     text-align: center;
     margin: auto;
 }
+main{
+    font-family: 'Kalam',cursive;
+    color: #333333;
+    }
 nav {
     background-color: var(--primary);
     
